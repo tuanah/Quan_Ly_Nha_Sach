@@ -1,0 +1,49 @@
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\BUS\bin\Debug\BUS.dll
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\BUS\bin\Debug\BUS.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\BUS\bin\Debug\BUS.xml
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\BUS\bin\Debug\DAO.dll
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\BUS\bin\Debug\DTO.dll
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\BUS\bin\Debug\DAO.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\BUS\bin\Debug\DAO.xml
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\BUS\bin\Debug\DTO.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\BUS\bin\Debug\DTO.xml
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\BUS\obj\Debug\BUS.vbprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\BUS\obj\Debug\BUS.Resources.resources
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\BUS\obj\Debug\BUS.vbproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\BUS\obj\Debug\BUS.dll
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\BUS\obj\Debug\BUS.xml
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\BUS\obj\Debug\BUS.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\BUS\bin\Debug\MySql.Data.dll
+F:\QuanLyNhaSach\BUS\bin\Debug\BUS.dll
+F:\QuanLyNhaSach\BUS\bin\Debug\BUS.pdb
+F:\QuanLyNhaSach\BUS\bin\Debug\BUS.xml
+F:\QuanLyNhaSach\BUS\bin\Debug\DAO.dll
+F:\QuanLyNhaSach\BUS\bin\Debug\DTO.dll
+F:\QuanLyNhaSach\BUS\bin\Debug\MySql.Data.dll
+F:\QuanLyNhaSach\BUS\bin\Debug\DAO.pdb
+F:\QuanLyNhaSach\BUS\bin\Debug\DAO.xml
+F:\QuanLyNhaSach\BUS\bin\Debug\DAO.dll.config
+F:\QuanLyNhaSach\BUS\bin\Debug\DTO.pdb
+F:\QuanLyNhaSach\BUS\bin\Debug\DTO.xml
+F:\QuanLyNhaSach\BUS\obj\Debug\BUS.vbprojResolveAssemblyReference.cache
+F:\QuanLyNhaSach\BUS\obj\Debug\BUS.Resources.resources
+F:\QuanLyNhaSach\BUS\obj\Debug\BUS.vbproj.GenerateResource.Cache
+F:\QuanLyNhaSach\BUS\obj\Debug\BUS.dll
+F:\QuanLyNhaSach\BUS\obj\Debug\BUS.xml
+F:\QuanLyNhaSach\BUS\obj\Debug\BUS.pdb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\BUS\bin\Debug\BUS.dll
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\BUS\bin\Debug\BUS.pdb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\BUS\bin\Debug\BUS.xml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\BUS\bin\Debug\DAO.dll
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\BUS\bin\Debug\DTO.dll
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\BUS\bin\Debug\MySql.Data.dll
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\BUS\bin\Debug\DAO.pdb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\BUS\bin\Debug\DAO.xml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\BUS\bin\Debug\DTO.pdb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\BUS\bin\Debug\DTO.xml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\BUS\obj\Debug\BUS.vbprojResolveAssemblyReference.cache
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\BUS\obj\Debug\BUS.Resources.resources
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\BUS\obj\Debug\BUS.vbproj.GenerateResource.Cache
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\BUS\obj\Debug\BUS.dll
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\BUS\obj\Debug\BUS.xml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\BUS\obj\Debug\BUS.pdb

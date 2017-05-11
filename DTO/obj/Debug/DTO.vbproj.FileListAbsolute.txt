@@ -1,0 +1,35 @@
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\DTO\bin\Debug\DTO.dll
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\DTO\bin\Debug\DTO.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\DTO\bin\Debug\DTO.xml
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\DTO\obj\Debug\DTO.vbprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\DTO\obj\Debug\DTO.Resources.resources
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\DTO\obj\Debug\DTO.dll
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\DTO\obj\Debug\DTO.xml
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\DTO\obj\Debug\DTO.pdb
+F:\QuanLyNhaSach\DTO\bin\Debug\DTO.dll
+F:\QuanLyNhaSach\DTO\bin\Debug\DTO.pdb
+F:\QuanLyNhaSach\DTO\bin\Debug\DTO.xml
+F:\QuanLyNhaSach\DTO\obj\Debug\DTO.vbprojResolveAssemblyReference.cache
+F:\QuanLyNhaSach\DTO\obj\Debug\DTO.Resources.resources
+F:\QuanLyNhaSach\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+F:\QuanLyNhaSach\DTO\obj\Debug\DTO.dll
+F:\QuanLyNhaSach\DTO\obj\Debug\DTO.xml
+F:\QuanLyNhaSach\DTO\obj\Debug\DTO.pdb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\DTO\bin\Debug\DTO.dll
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\DTO\bin\Debug\DTO.pdb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\DTO\bin\Debug\DTO.xml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\DTO\obj\Debug\DTO.Resources.resources
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\DTO\obj\Debug\DTO.dll
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\DTO\obj\Debug\DTO.xml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\DTO\obj\Debug\DTO.pdb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\DTO\obj\Debug\DTO.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\DTO\bin\Debug\DTO.dll
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\DTO\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\DTO\bin\Debug\DTO.xml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\DTO\obj\Debug\DTO.Resources.resources
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\DTO\obj\Debug\DTO.dll
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\DTO\obj\Debug\DTO.xml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\DTO\obj\Debug\DTO.pdb

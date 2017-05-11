@@ -1,0 +1,211 @@
+c:\users\user\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\GUI.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\GUI.exe
+c:\users\user\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\GUI.pdb
+c:\users\user\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\GUI.xml
+c:\users\user\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\obj\Debug\MainWindow.g.vb
+c:\users\user\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\obj\Debug\Application.g.vb
+c:\users\user\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\obj\Debug\GUI_MarkupCompile.cache
+c:\users\user\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\obj\Debug\GUI_MarkupCompile.lref
+c:\users\user\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\obj\Debug\GUI.g.resources
+c:\users\user\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\obj\Debug\GUI.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\obj\Debug\GUI.exe
+c:\users\user\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\obj\Debug\GUI.xml
+c:\users\user\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\obj\Debug\GUI.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\MySql.Data.dll
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\obj\Debug\Application.baml
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\BUS.dll
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\DTO.dll
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\BUS.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\BUS.xml
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\DTO.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\DTO.xml
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\DAO.dll
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\DAO.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\bin\Debug\DAO.xml
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\obj\Debug\NhapSach.g.vb
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\obj\Debug\NhapSach.baml
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\obj\Debug\ThemSach.g.vb
+C:\Users\User\documents\visual studio 2017\Projects\Quan_Ly_Nha_Sach\GUI\obj\Debug\ThemSach.baml
+F:\QuanLyNhaSach\GUI\bin\Debug\GUI.exe.config
+F:\QuanLyNhaSach\GUI\bin\Debug\GUI.exe
+F:\QuanLyNhaSach\GUI\bin\Debug\GUI.pdb
+F:\QuanLyNhaSach\GUI\bin\Debug\GUI.xml
+F:\QuanLyNhaSach\GUI\bin\Debug\BUS.dll
+F:\QuanLyNhaSach\GUI\bin\Debug\DTO.dll
+F:\QuanLyNhaSach\GUI\bin\Debug\MaterialDesignColors.dll
+F:\QuanLyNhaSach\GUI\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\QuanLyNhaSach\GUI\bin\Debug\MySql.Data.dll
+F:\QuanLyNhaSach\GUI\bin\Debug\DAO.dll
+F:\QuanLyNhaSach\GUI\bin\Debug\BUS.pdb
+F:\QuanLyNhaSach\GUI\bin\Debug\BUS.xml
+F:\QuanLyNhaSach\GUI\bin\Debug\DTO.pdb
+F:\QuanLyNhaSach\GUI\bin\Debug\DTO.xml
+F:\QuanLyNhaSach\GUI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\QuanLyNhaSach\GUI\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\QuanLyNhaSach\GUI\bin\Debug\DAO.pdb
+F:\QuanLyNhaSach\GUI\bin\Debug\DAO.xml
+F:\QuanLyNhaSach\GUI\bin\Debug\DAO.dll.config
+F:\QuanLyNhaSach\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+F:\QuanLyNhaSach\GUI\obj\Debug\NhapSach.g.vb
+F:\QuanLyNhaSach\GUI\obj\Debug\MainWindow.g.vb
+F:\QuanLyNhaSach\GUI\obj\Debug\ThemSach.g.vb
+F:\QuanLyNhaSach\GUI\obj\Debug\Application.g.vb
+F:\QuanLyNhaSach\GUI\obj\Debug\GUI_MarkupCompile.cache
+F:\QuanLyNhaSach\GUI\obj\Debug\GUI_MarkupCompile.lref
+F:\QuanLyNhaSach\GUI\obj\Debug\Application.baml
+F:\QuanLyNhaSach\GUI\obj\Debug\NhapSach.baml
+F:\QuanLyNhaSach\GUI\obj\Debug\MainWindow.baml
+F:\QuanLyNhaSach\GUI\obj\Debug\ThemSach.baml
+F:\QuanLyNhaSach\GUI\obj\Debug\GUI.g.resources
+F:\QuanLyNhaSach\GUI\obj\Debug\GUI.Resources.resources
+F:\QuanLyNhaSach\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+F:\QuanLyNhaSach\GUI\obj\Debug\GUI.exe
+F:\QuanLyNhaSach\GUI\obj\Debug\GUI.xml
+F:\QuanLyNhaSach\GUI\obj\Debug\GUI.pdb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\GUI.exe.config
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\GUI.exe
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\GUI.pdb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\GUI.xml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\BUS.dll
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\DTO.dll
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\MaterialDesignColors.dll
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\MySql.Data.dll
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\DAO.dll
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\BUS.pdb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\BUS.xml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\DTO.pdb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\DTO.xml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\DAO.pdb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\DAO.xml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\NhapSach.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\MainWindow.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\Application.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\GUI_MarkupCompile.cache
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\GUI_MarkupCompile.lref
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\Application.baml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\NhapSach.baml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\MainWindow.baml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\GUI.g.resources
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\GUI.Resources.resources
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\GUI.exe
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\GUI.xml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\GUI.pdb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\GeneratedInternalTypeHelper.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\TimKhachHang\TimKhachHang.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\TimKhachHang\ui_TimKhachHang.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\TimKhachHang\TimKhachHang.baml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\TimKhachHang\ui_TimKhachHang.baml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\TimSach\TImSach.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\TimSach\ui_TimSach.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\ui_NhapSach.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\TimSach\TImSach.baml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\TimSach\ui_TimSach.baml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\ui_NhapSach.baml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\SuaSach\SuaSach.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\SuaSach\ui_SuaSach.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\SuaSach\SuaSach.baml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\SuaSach\ui_SuaSach.baml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\ThemKhachHang\ThemKhachHang.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\ThemSach\ThemSach.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\ThemKhachHang\ui_ThemKhachHang.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\ThemSach\ui_ThemSach.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\ThemKhachHang\ThemKhachHang.baml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\ThemSach\ThemSach.baml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\ThemKhachHang\ui_ThemKhachHang.baml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\ThemSach\ui_ThemSach.baml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\SuaKhachHang\SuaKhachHang.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\ui_BanSach.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\SuaKhachHang\ui_SuaKhachHang.g.vb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\SuaKhachHang\SuaKhachHang.baml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\ui_BanSach.baml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\obj\Debug\SuaKhachHang\ui_SuaKhachHang.baml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\Dragablz.dll
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\Dragablz.pdb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\Dragablz.xml
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\MahApps.Metro.dll
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\System.Windows.Interactivity.dll
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\MahApps.Metro.pdb
+D:\Download\Compressed\QuanLyNhaSach\QuanLyNhaSach\GUI\bin\Debug\MahApps.Metro.xml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\GUI.exe.config
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\GUI.exe
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\GUI.pdb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\GUI.xml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\BUS.dll
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\Dragablz.dll
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\DTO.dll
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\MahApps.Metro.dll
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\DAO.dll
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\BUS.pdb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\BUS.xml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\DTO.xml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\Dragablz.pdb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\Dragablz.xml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\MahApps.Metro.pdb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\MahApps.Metro.xml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\DAO.pdb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\bin\Debug\DAO.xml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\NhapSach.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\MainWindow.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\SuaKhachHang\SuaKhachHang.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\SuaSach\SuaSach.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\ThemKhachHang\ThemKhachHang.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\ThemSach\ThemSach.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\TimKhachHang\TimKhachHang.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\TimSach\TImSach.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\TimKhachHang\ui_TimKhachHang.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\TimSach\ui_TimSach.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\ui_BanSach.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\ui_NhapSach.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\SuaSach\ui_SuaSach.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\ThemKhachHang\ui_ThemKhachHang.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\ThemSach\ui_ThemSach.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\SuaKhachHang\ui_SuaKhachHang.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\Application.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\Application.baml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\NhapSach.baml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\SuaKhachHang\SuaKhachHang.baml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\SuaSach\SuaSach.baml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\ThemKhachHang\ThemKhachHang.baml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\ThemSach\ThemSach.baml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\TimKhachHang\TimKhachHang.baml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\TimSach\TImSach.baml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\TimKhachHang\ui_TimKhachHang.baml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\TimSach\ui_TimSach.baml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\ui_BanSach.baml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\ui_NhapSach.baml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\SuaSach\ui_SuaSach.baml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\ThemKhachHang\ui_ThemKhachHang.baml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\ThemSach\ui_ThemSach.baml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\SuaKhachHang\ui_SuaKhachHang.baml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\GUI.g.resources
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\GUI.exe
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\GUI.xml
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\GUI.pdb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\ui_ThayDoiQuyDinh.g.vb
+C:\Users\User\Desktop\Code\Quan_Ly_Nha_Sach\QLNS\GUI\obj\Debug\ui_ThayDoiQuyDinh.baml

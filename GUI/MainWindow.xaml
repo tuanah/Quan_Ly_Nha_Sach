@@ -1,0 +1,36 @@
+﻿<metro:MetroWindow x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:dragablz="clr-namespace:Dragablz;assembly=Dragablz"
+        xmlns:wpf="clr-namespace:MaterialDesignThemes.Wpf;assembly=MaterialDesignThemes.Wpf"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="Quan Ly Nha Sach" Height="700" Width="1080" FontFamily="Calibri" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" Cursor="" FontSize="15" Loaded="Window_Loaded" WindowStyle="ThreeDBorderWindow" BorderBrush="#FF31BCB7" Background="#FFFAFAFA" NonActiveBorderBrush="#FF31BCB7" NonActiveGlowBrush="#FF31BCB7" NonActiveWindowTitleBrush="#FF31BCB7">
+    <dragablz:TabablzControl AllowDrop="False" Style="{StaticResource MaterialDesignTabablzControlStyle}" BorderBrush="#FF31BCB7">
+        <dragablz:TabablzControl.InterTabController>
+            <dragablz:InterTabController />
+        </dragablz:TabablzControl.InterTabController>
+        <TabItem Header="Bán sách" IsSelected="True" Cursor="Hand">
+            <Grid Margin="0,0,0,0">
+                <local:ui_BanSach x:Name="bansach" HorizontalAlignment="Left" VerticalAlignment="Top" Height="513" Width="679"/>
+            </Grid>
+        </TabItem>
+        <TabItem Header="Khách hàng">
+            <local:ui_TimKhachHang HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        </TabItem>
+        <TabItem Header="Thay đổi quy định">
+            <local:ui_ThayDoiQuyDinh HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        </TabItem>
+        <TabItem Header="Nhập sách">
+            <Grid>
+                <local:ui_NhapSach x:Name="ui_nhapsach" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            </Grid>
+        </TabItem>
+
+    </dragablz:TabablzControl>
+
+</metro:MetroWindow>

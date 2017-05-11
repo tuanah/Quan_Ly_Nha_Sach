@@ -1,0 +1,52 @@
+﻿<UserControl x:Class="ui_BanSach"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:wpf="clr-namespace:MaterialDesignThemes.Wpf;assembly=MaterialDesignThemes.Wpf"
+             xmlns:local="clr-namespace:GUI"
+             mc:Ignorable="d" Width="678.902" Height="512.711">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFF3F1F1"/>
+                <GradientStop Color="#FFF5F1F1" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBlock HorizontalAlignment="Left" Margin="43,34,0,0" TextWrapping="Wrap" Text="Ngày lập hóa đơn: " VerticalAlignment="Top"/>
+        <TextBox x:Name="txbNgayLapHoaDon" HorizontalAlignment="Left" TextAlignment="Center" wpf:HintAssist.Hint="        04.05.2017" Height="23" Margin="234,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="424,34,0,0" TextWrapping="Wrap" Text="Mã KH:" VerticalAlignment="Top"/>
+        <ComboBox Name="cbbMaKH" VerticalContentAlignment="Center" IsEditable="True" wpf:HintAssist.Hint="Chọn mã khách hàng" Margin="496,28,63,457"/>
+        <TextBlock HorizontalAlignment="Left" Margin="43,69,0,0" TextWrapping="Wrap" Text="Tên KH:" VerticalAlignment="Top"/>
+        <TextBox x:Name="txbTenKH" HorizontalAlignment="Left" IsEnabled="False" TextAlignment="Center" Height="23" Margin="234,65,0,0" TextWrapping="Wrap" Style="{StaticResource MaterialDesignTextBox}" VerticalAlignment="Top" Width="120" />
+        <TextBlock HorizontalAlignment="Left" Margin="424,69,0,0" TextWrapping="Wrap" Text="Tiền nợ:" VerticalAlignment="Top"/>
+        <TextBox x:Name="txbTienNo" HorizontalAlignment="Left" TextAlignment="Center" IsEnabled="False" Height="23" Margin="496,65,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="43,148,0,0" TextWrapping="Wrap" Text="Số lượng tồn tối thiểu sau khi bán:" VerticalAlignment="Top"/>
+        <Label Content="20" Margin="265,143,370,340"/>
+        <TextBlock HorizontalAlignment="Left" Margin="424,148,0,0" TextWrapping="Wrap" Text="Số tiền nợ tối đa:" VerticalAlignment="Top"/>
+        <Label Content="20,000" Margin="537,143,63,340"/>
+        <DataGrid x:Name="dtgBanSach" AutoGenerateColumns="False" HorizontalAlignment="Left" Height="221" Margin="18,238,0,0" VerticalAlignment="Top" Width="643" IsReadOnly="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="STT" Binding="{Binding STT}"/>
+                <DataGridTextColumn Header="Mã sách" Binding="{Binding MaSach}"/>
+                <DataGridTextColumn Header="Tên sách" Binding="{Binding TenSach}"/>
+                <DataGridTextColumn Header="Số lượng bán" Binding="{Binding SoLuongBan}"/>
+                <DataGridTextColumn Header="Số lượng tồn sau khi bán" Binding="{Binding SoLuongTonSauKhiBan}"/>
+                <DataGridTextColumn Header="Đơn giá" Binding="{Binding DonGia}"/>
+                <DataGridTextColumn Header="Thành tiền" Binding="{Binding ThanhTien}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btnXacNhan" Content="Thêm vào danh sách" HorizontalAlignment="Left" Margin="103,172,0,0" VerticalAlignment="Top" Width="Auto"/>
+        <TextBlock HorizontalAlignment="Left" Margin="43,106,0,0" TextWrapping="Wrap" Text="Mã sách:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="424,106,0,0" TextWrapping="Wrap" Text="Số lượng:" VerticalAlignment="Top"/>
+        <TextBox x:Name="txbSoLuongBan" HorizontalAlignment="Left" TextAlignment="Center" Height="23" Margin="496,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="cbbMaSachBan" IsEditable="True" VerticalContentAlignment="Center" wpf:HintAssist.Hint="Chọn mã sách" Margin="234,100,325,385"/>
+        <TextBlock HorizontalAlignment="Left" Margin="18,215,0,0" TextWrapping="Wrap" Text="Danh sách các sách bán:" VerticalAlignment="Top"/>
+        <Button x:Name="btnXoaSachVuaBan" Content="Xóa sách vừa bán" HorizontalAlignment="Left" Margin="392,172,0,0" VerticalAlignment="Top" Width="159" Click="btnXoaSachVuaBan_Click"/>
+        <Label Content="Tổng tiền:" HorizontalAlignment="Left" Margin="57,469,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblTongTien" Content="0 đ" HorizontalAlignment="Left" Margin="130,469,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnHoanThanh" Content="Hoàn thành" HorizontalAlignment="Left" Margin="444,469,0,0" VerticalAlignment="Top" Width="Auto"/>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,243 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GUI
+</name>
+</assembly>
+<members>
+<member name="T:GUI.My.MyWpfExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:GUI.My.MyWpfExtension.Application">
+ <summary>
+ Returns the application object for the running application
+ </summary>
+</member>
+<member name="P:GUI.My.MyWpfExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:GUI.My.MyWpfExtension.User">
+ <summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:GUI.My.MyWpfExtension.Log">
+ <summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member>
+<member name="P:GUI.My.MyWpfExtension.Windows">
+ <summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member>
+<member name="T:GUI.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:GUI.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:GUI.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:GUI.SuaKhachHang">
+<summary>
+SuaKhachHang
+</summary>
+</member>
+<member name="M:GUI.SuaKhachHang.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:GUI.SuaSach">
+<summary>
+SuaSach
+</summary>
+</member>
+<member name="M:GUI.SuaSach.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:GUI.ThemKhachHang">
+<summary>
+ThemKhachHang
+</summary>
+</member>
+<member name="M:GUI.ThemKhachHang.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:GUI.ThemSach">
+<summary>
+ThemSach
+</summary>
+</member>
+<member name="M:GUI.ThemSach.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:GUI.TimKhachHang">
+<summary>
+TimKhachHang
+</summary>
+</member>
+<member name="M:GUI.TimKhachHang.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:GUI.TImSach">
+<summary>
+TImSach
+</summary>
+</member>
+<member name="M:GUI.TImSach.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:GUI.ui_TimKhachHang">
+<summary>
+ui_TimKhachHang
+</summary>
+</member>
+<member name="M:GUI.ui_TimKhachHang.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:GUI.ui_TimSach">
+<summary>
+ui_TimSach
+</summary>
+</member>
+<member name="M:GUI.ui_TimSach.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:GUI.ui_BanSach">
+<summary>
+ui_BanSach
+</summary>
+</member>
+<member name="M:GUI.ui_BanSach.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:GUI.ui_NhapSach">
+<summary>
+ui_NhapSach
+</summary>
+</member>
+<member name="M:GUI.ui_NhapSach.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:GUI.ui_SuaSach">
+<summary>
+ui_SuaSach
+</summary>
+</member>
+<member name="M:GUI.ui_SuaSach.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:GUI.ui_ThemKhachHang">
+<summary>
+ui_ThemKhachHang
+</summary>
+</member>
+<member name="M:GUI.ui_ThemKhachHang.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:GUI.ui_ThemSach">
+<summary>
+ui_ThemSach
+</summary>
+</member>
+<member name="M:GUI.ui_ThemSach.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:GUI.ui_SuaKhachHang">
+<summary>
+ui_SuaKhachHang
+</summary>
+</member>
+<member name="M:GUI.ui_SuaKhachHang.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:GUI.ui_ThayDoiQuyDinh">
+<summary>
+ui_ThayDoiQuyDinh
+</summary>
+</member>
+<member name="M:GUI.ui_ThayDoiQuyDinh.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:GUI.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:GUI.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:GUI.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:GUI.LapPhieuNhapSach">
+<summary>
+LapPhieuNhapSach
+</summary>
+</member>
+<member name="M:GUI.LapPhieuNhapSach.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:GUI.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:GUI.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>
